@@ -1,4 +1,9 @@
 # TodeTode
-language of todes
 
-![image](https://user-images.githubusercontent.com/15892272/185633272-b1a59509-44b1-4c21-9c4a-73085ce8a570.png)
+language of todes that live in mountains
+
+## Notes
+
+Unlike [the original TodeTode](https://github.com/TodePond/TodeTode) (which I'll call Todelang from now on),
+this version was designed to be slightly more human-readable,
+with the lore being that a machine crashed down from the sky and the Todes there have been trying to communicate it ever since.
