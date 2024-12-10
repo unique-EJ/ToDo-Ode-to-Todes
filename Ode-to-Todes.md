@@ -1,6 +1,12 @@
 # Symbols
 
+**`>>`** means "phrase on left 👈 then does action(s) on right 👉 to an object phrase"
+**`::`** means "phrase on left 👈 goes together (united) with the 🟰 object phrase 👉"
+**`N`** means known objects, that the language user knows. 💭
+**`O`** means "oh-no?!", other objects that users don't know. ⚠️
+**`#`** means anything stops 🛑 the user or object, negating action.
 
+and I, Edward, don't like the word "need"! No need to want something very much, to put pressure on other people for that.
 
 ---
 
